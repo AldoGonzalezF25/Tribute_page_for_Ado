@@ -12,7 +12,7 @@ html, body{
 }
 
 body{
-  background-image:url('https://images4.alphacoders.com/935/935182.jpg');
+  background-image:url('img/Background.webp');
   background-repeat: no-repeat;
   background-attachment: fixed;
   width:100%;
@@ -78,5 +78,5 @@ figcaption{
 }
 
 a{
-  color:#ff80ff;
+  color:#7d0ffa;
 }
